@@ -1,2 +1,2 @@
 # BoredomProjects
-Just some projects that I made when I was bored
+Just some projects that I'm making when I'm bored
