@@ -13,15 +13,7 @@ import os
 def cls():
     os.system("cls")
 cls()
-def print_logo():
-    logo = """
-    .__        _____  __   
-    |__| _____/ ____\/  |_ 
-    |  |/ ___\   __\\   __\
-    |  / /_/  >  |   |  |  
-    |__\___  /|__|   |__|  
-      /_____/              
-    """
+
 username = str(input("Please enter your username --> "))
 password = str(input("Please enter your password --> "))
 api = InstagramAPI(username, password)
